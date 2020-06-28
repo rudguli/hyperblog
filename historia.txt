@@ -2,3 +2,5 @@ Esta es la historia del primer commit hecho en la clase de Git de Platzi
 Soy Julio y tengo 33 años
 
 Hoy hablaremos de su vida
+
+También de su maestría
